@@ -5,7 +5,7 @@
 # Start wineserver64
 /usr/lib/wine/wineserver64
 
-# Make output folder
+# cd to calculation folder
 cd /tmp/mann_calc
 
 # Run mann_turb_x64.exe with wine64
